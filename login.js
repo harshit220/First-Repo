@@ -1,2 +1,2 @@
-let userName = harshitsachan99@gmail.com;
-let passWord = hrsh99@
+let user_name = "harshitsachan99@gmail.com"
+let pass_word = "hrsh99@"
